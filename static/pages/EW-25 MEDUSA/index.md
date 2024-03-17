@@ -1,7 +1,7 @@
 ---
     slug: EW-25 Medusa
     title: EW-25 Medusa
-    description: The EW-25 Medusa is a STOL Electronic Warefare platforum. it can take off and land in short distances using thrust nozzles. \
+    description: The EW-25 Medusa is a STOL Electronic Warefare platforum. it can take off and land in short distances using thrust nozzles.
     photo: (TAKE PHOTO)
     photoAlt: EW-25 Medusa Electronic Warefare Plane 
 ---
@@ -12,7 +12,7 @@ The **EW-25 Medusa** is an advanced STOL fighter that can takeoff and land in sh
 ### Details 
 ---
 
-The FS-12 jet is equipped with a single engine, which adds to its agility and maneuverability during air combat. This agility is advantageous in certain tactical situations, such as dogfights or close air support missions. The single engine is equipped with a powerful afterburner, which significantly improves its takeoff and climb performance, which is advantageous when taking off of short runways and increases the aircraft's ability to quickly gain altitude, which can be critical in certain tactical scenarios such as quickly intercepting missiles flying towards an airfield, without much holdup with taxiing and waiting to gain speed from the ground.
+The EW-25 Medusa is a STOL Electroonic Warefare platform. It has an advanced radar system to detect hostile radar signatures.  It has a 120kw high energy laser to destroy incoming hostile missles. It can mount a radar dome for enhanced detection. It can carry a varity of tradational and nuclear weapons. 
 
 <span class="imageBox">
   <Vid name="revokertakingoff.webm" lossless="revokertakingoff.mov" thumb="fs12takingoffthumbnail.webp" width="200" {slug} />
