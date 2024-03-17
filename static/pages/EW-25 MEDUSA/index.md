@@ -6,13 +6,13 @@
     photoAlt: EW-25 Medusa Electronic Warefare Plane 
 ---
 
-The **EW-25 Medusa** is an advanced STOL fighter that can takeoff and land in short distances and perform electronic warefare cabibilities. 
+The **EW-25 Medusa** is a short take-off, vertical landing (STOVL) support aircraft with a variety of powerful electronic warefare systems. Able to triangulate radar positions,jam enemy radar installations, suppress air defense, and even shoot down missles with a high energy laser, a single medusa can easliy turn the tide of a battle. 
 
 
 ### Details 
 ---
 
-The EW-25 Medusa is a STOL Electroonic Warefare platform. It has an advanced radar system to detect hostile radar signatures.  It has a 120kw high energy laser to destroy incoming hostile missles. It can mount a radar dome for enhanced detection. It can carry a varity of tradational and nuclear weapons. 
+
 
 <span class="imageBox">
   <Vid name="revokertakingoff.webm" lossless="revokertakingoff.mov" thumb="fs12takingoffthumbnail.webp" width="200" {slug} />
